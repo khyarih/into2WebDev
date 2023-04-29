@@ -1,0 +1,15 @@
+[
+    {
+        "img":"img/project1/jpeg",
+        "alt":"Project1",
+        "title":"Project 1: Responsive Website",
+        "description":"A responsive website built using HTML, CSS, and JavaScript, featuring smooth scrolling and a mobile-first design."
+    },
+    {
+        "img":"imgs/project2.png",
+        "alt":"Project 2",
+        "title":"Project 2: Online Store",
+        "description":" An e-commerce website with a user-friendly interface, built using a modern web development framework and secure payment processing."
+    
+    }
+]
