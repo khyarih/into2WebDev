@@ -1,24 +1,24 @@
 [
     {
-        "img":"imgs/project1.jpeg",
+        "img":"https://github.com/khyarih/into2WebDev/blob/main/imgs/project1.jpeg?raw=true",
         "alt":"Project1",
         "title":"Project 1: Responsive Website",
         "description":"A responsive website built using HTML, CSS, and JavaScript, featuring smooth scrolling and a mobile-first design."
     },
     {
-        "img":"imgs/project2.png",
+        "img":"https://github.com/khyarih/into2WebDev/blob/main/imgs/project2.png?raw=true",
         "alt":"Project 2",
         "title":"Project 2: Online Store",
         "description":" An e-commerce website with a user-friendly interface, built using a modern web development framework and secure payment processing."
     },
     {
-        "img":"imgs/project3.jpeg",
+        "img":"https://github.com/khyarih/into2WebDev/blob/main/imgs/project3.jpeg?raw=true",
         "alt":"Project 2",
         "title":"Project 2: Online Store",
         "description":" An e-commerce website with a user-friendly interface, built using a modern web development framework and secure payment processing."
     },
     {
-        "img":"imgs/project4.jpeg",
+        "img":"https://github.com/khyarih/into2WebDev/blob/main/imgs/project4.jpeg?raw=true",
         "alt":"Project 2",
         "title":"Project 2: Online Store",
         "description":" An e-commerce website with a user-friendly interface, built using a modern web development framework and secure payment processing."

@@ -26,7 +26,7 @@ function createProjectCard(img, alt, title, description) {
 
 //load projects
 
-fetch('data/projects.json')
+fetch('http://127.0.0.1:3000/projects')
     .then(response => response.json())
     .then(data => {
         for (let index = 0; index < data.length; index++) {
